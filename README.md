@@ -104,7 +104,7 @@ Build a COMPLETE Fullstack Responsive Chat App.
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145294-5df03576-8fad-4819-a29f-f0e57c02a803.png" alt="Chat Engine" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145521-006bb168-1ab6-4af4-afa2-298a7649b453.jpg" alt="Open AI" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
-   <a target="_blank" rel="noopener noreferrer"> <img src="[https://user-images.githubusercontent.com/62365628/226145521-006bb168-1ab6-4af4-afa2-298a7649b453.jpg](https://user-images.githubusercontent.com/62365628/226145554-348b7996-04c2-472e-b4e0-6d1ba74b6576.jpg)" alt="Chat GPT" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
+   <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145554-348b7996-04c2-472e-b4e0-6d1ba74b6576.jpg" alt="Chat GPT" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
   
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
