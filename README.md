@@ -227,7 +227,7 @@ Don't forget to give the project a star! Thanks again!
 
 <a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-• **[ChatGPT Clone](https://chatgpt-sumit.up.railway.app/)** is a responsive web app can be viewed on any device.
+• **[Chat AI App]()** is a responsive web app can be viewed on any device.
 
 <br>
 
