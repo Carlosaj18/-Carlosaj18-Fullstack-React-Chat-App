@@ -85,6 +85,9 @@ https://user-images.githubusercontent.com/62365628/226205505-62d019c3-9352-44d1-
 Here's why:
 * You can create your own chats.
 * You can integrate AI to your response based on chat GPT Integrations. 
+* You can create assit AI chat. 
+* You can create code AI response chat. 
+* You can create general AI response chat.
 * You can add new users. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
