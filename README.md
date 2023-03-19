@@ -167,11 +167,12 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Start the Server
-- [x] Start the Client  
-- [ ] Create your user 
-- [ ] Create your chats 
-- [ ] Integrate an AI Assitent 
+- [x] Installation
+- [x] Tech Stack
+- [ ] Live Site
+- [ ] Resources
+- [ ] Let's Connect
+
 
 See the [open issues](https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App/issues) for a full list of proposed features (and known issues).
 
