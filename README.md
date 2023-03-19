@@ -123,7 +123,7 @@ Build a COMPLETE Fullstack Responsive Chat App.
 ### 2. Git clone and cd into the repo folder:
 
 ```bash
-https://github.com/sumitKcs/chatgpt-clone.git && cd chatgpt-clone
+https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App.git && cd chatgpt-clone
 ```
 
 ### 3. Install all dependencies
