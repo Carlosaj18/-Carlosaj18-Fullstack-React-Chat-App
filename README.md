@@ -221,6 +221,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Site 
+
+<p id="live-site"><p>
+
+<a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+• **[ChatGPT Clone](https://chatgpt-sumit.up.railway.app/)** is a responsive web app can be viewed on any device.
+
+<br>
+
 <!-- CONTACT -->
 ## Contact
 
