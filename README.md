@@ -134,24 +134,49 @@ https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App.git && cd chatgpt-clon
 npm install
 ```
 
-### 4. In root directory of the project files, create a `.env.local` file
+### 4. In root directory of the server, create a `.env` file
+
+```bash
+.env
+```
+
+### 5. In root directory of the client, create a `.env.local` file
 
 ```bash
 .env.local
 ```
 
-### 5. In the `.env.local` file, create following environment variables:
+### 6. In the `.env` file, create following environment variables:
 
 ```
-GOOGLE_ID=YOUR_GOOGLE_OAUTH_ID
-GOOGLE_SECRET=YOUR_GOOGLE_OAUTH_SECRET_KEY
-NEXTAUTH_SECRET=ANY_RANDOM_LONG_ALPHANUMERIC_STRING
-OPENAI_API_KEY=YOUR_OPENAI_API_KEY
-FIREBASE_SERVICE_ACCOUNT_KEY=YOUR_FIREBASE_SERVICE_ACCOUNT_KEY
+PORT = 1337
+PRIVATE_KEY=CHAT_ENGINE_API_KEY
+PROJECT_ID = YOUR_CHAT_ENGINE_PROJECT_ID
+BOT_USER_NAME=USER_BOT
+BOT_USER_SECRET=PASSWORD_BOT
+OPEN_API_KEY = YOUR_OPENAI_API_KEY
 
 ```
 
-### 3. Run the server
+### 7. In the `.env.local` file, create following environment variables:
+
+```
+VITE_BASE_URL = http://localhost:1337
+VITE_PROJECT_ID = YOUR_VITE_PROJECT_ID
+
+```
+
+### 8. Run the server
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 9. Run the client
 
 ```bash
 npm start
