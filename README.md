@@ -39,7 +39,7 @@
     <a href="https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/62365628/226205505-62d019c3-9352-44d1-bf85-6bef088a9d59.mp4">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App/issues">Report Bug</a>
     ·
