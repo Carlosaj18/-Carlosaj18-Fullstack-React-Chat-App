@@ -118,7 +118,7 @@ Build a COMPLETE Fullstack Responsive Chat App.
 
 ### Prerequisites
 
-`**Note**`: This app requires API key from <a href="https://openai.com/api/" >OPENAI</a>, <a href="https://console.cloud.google.com/" >Google OAuth Client ID and Client Secret</a> and <a href="https://firebase.google.com/" >Firebase Service Account Key</a>
+`**Note**`: This app requires API key from <a href="https://openai.com/api/" >OPENAI</a> and <a href="https://chatengine.io/" >Chat Engine</a> 
 
 ### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
