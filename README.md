@@ -79,8 +79,9 @@
 ## About The Project!
 
 
-
 This is a Chat App that allows you to recive response from GPT Intergration. 
+
+https://user-images.githubusercontent.com/62365628/226205505-62d019c3-9352-44d1-bf85-6bef088a9d59.mp4
 
 Here's why:
 * You can create your own chats.
