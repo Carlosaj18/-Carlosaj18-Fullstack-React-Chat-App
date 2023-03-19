@@ -116,29 +116,50 @@ Build a COMPLETE Fullstack Responsive Chat App.
 
 ### Prerequisites
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+`**Note**`: This app requires API key from <a href="https://openai.com/api/" >OPENAI</a>, <a href="https://console.cloud.google.com/" >Google OAuth Client ID and Client Secret</a> and <a href="https://firebase.google.com/" >Firebase Service Account Key</a>
 
-### Installation
+### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Carlosaj18/fullstack-admin.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the Server in localhost/1337
-   ```sh
-   npm run dev
-   ```
-4. Start the Client in localhost/5173
-   ```sh
-   npm run dev
-   ```
+### 2. Git clone and cd into the repo folder:
+
+```bash
+https://github.com/sumitKcs/chatgpt-clone.git && cd chatgpt-clone
+```
+
+### 3. Install all dependencies
+
+```bash
+npm install
+```
+
+### 4. In root directory of the project files, create a `.env.local` file
+
+```bash
+.env.local
+```
+
+### 5. In the `.env.local` file, create following environment variables:
+
+```
+GOOGLE_ID=YOUR_GOOGLE_OAUTH_ID
+GOOGLE_SECRET=YOUR_GOOGLE_OAUTH_SECRET_KEY
+NEXTAUTH_SECRET=ANY_RANDOM_LONG_ALPHANUMERIC_STRING
+OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+FIREBASE_SERVICE_ACCOUNT_KEY=YOUR_FIREBASE_SERVICE_ACCOUNT_KEY
+
+```
+
+### 3. Run the server
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 4. Access the project in your browser at [`localhost:3000`](http://localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
