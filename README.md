@@ -186,7 +186,7 @@ npm run dev
 #for deployed version
 ```
 
-### 10. Access the project in your browser at [`localhost:3000`](http://localhost:3000)
+### 10. Access the project in your browser at [`http://localhost:5173/`](http://localhost:5173)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
