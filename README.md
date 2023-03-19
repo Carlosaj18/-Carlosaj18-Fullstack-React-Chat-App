@@ -72,16 +72,18 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project!
-
 
 This is a Chat App that allows you to recive response from GPT Intergration. 
 
 https://user-images.githubusercontent.com/62365628/226205505-62d019c3-9352-44d1-bf85-6bef088a9d59.mp4
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+<p id="Usage"><p>
+  
 Here's why:
 * You can create your own chats.
 * You can integrate AI to your response based on chat GPT Integrations. 
@@ -89,12 +91,8 @@ Here's why:
 * You can create code AI response chat. 
 * You can create general AI response chat.
 * You can add new users. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With!
-
 
 Build a COMPLETE Fullstack Responsive Chat App. 
 
@@ -108,7 +106,6 @@ Build a COMPLETE Fullstack Responsive Chat App.
   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
-  
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
