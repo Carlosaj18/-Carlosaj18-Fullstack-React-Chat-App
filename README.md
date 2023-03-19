@@ -80,12 +80,6 @@
 
 
 
-
-https://user-images.githubusercontent.com/62365628/225510216-5e05f97f-1994-4334-a486-4aad6b01d367.mp4
-
-
-
-
 This is a Chat App that allows you to recive response from GPT Intergration. 
 
 Here's why:
