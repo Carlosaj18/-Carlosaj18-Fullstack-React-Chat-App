@@ -226,7 +226,7 @@ Don't forget to give the project a star! Thanks again!
 
 <a href="https://chat-ai-frontend.onrender.com">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-• **[Chat AI App]()** is a responsive web app can be viewed on any device.
+• **[Chat AI App](https://chat-ai-frontend.onrender.com)** is a responsive web app can be viewed on any device.
 
 <br>
 
