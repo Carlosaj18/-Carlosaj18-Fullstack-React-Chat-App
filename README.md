@@ -78,43 +78,16 @@
 
 ## Features:
 
-* Authentication: Implement user authentication for secure access to the application.
-* Chat Creation: Users can create individual or group chats for diverse conversations.
-* Multimedia Upload: Capability to share and upload various multimedia files within chats.
-* AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
-* Chat Member Management: Ability to add or remove members from existing chats or group conversations.
-* AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
-* ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
-
-https://user-images.githubusercontent.com/62365628/226214628-ca49df25-3db6-4317-9afc-4c58b4e36e32.mp4
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Usage
-<p id="Usage"><p>
-  
-Here's why:
-* You can create your own chats.
-* You can integrate AI to your response based on chat GPT Integrations. 
-* You can create assit AI chat. 
-* You can create code AI response chat. 
-* You can create general AI response chat.
-* You can add new users. 
-
-### Built With!
-
-Build a COMPLETE Fullstack Responsive Chat App. 
-
-  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+*     Authentication: Implement user authentication for secure access to the application.
+*     Chat Creation: Users can create individual or group chats for diverse conversations.
+*     Multimedia Upload: Capability to share and upload various multimedia files within chats.
+*     AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
+*     Chat Member Management: Ability to add or remove members from existing chats or group conversations.
+*     AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
+*     ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-### Prerequisites
 
 `**Note**`: This app requires API key from <a href="https://openai.com/api/" >OPENAI</a> and <a href="https://chatengine.io/" >Chat Engine</a> 
 
@@ -186,38 +159,12 @@ npm run dev
 
 ### 10. Access the project in your browser at [`http://localhost:5173/`](http://localhost:5173)
    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Demo & Showcasing:
 
+### :camera: Screenshots
 
-<!-- ROADMAP -->
-## Roadmap
+https://user-images.githubusercontent.com/62365628/226214628-ca49df25-3db6-4317-9afc-4c58b4e36e32.mp4
 
-- [x] Installation
-- [x] Tech Stack
-- [ ] Live Site
-- [ ] Resources
-- [ ] Let's Connect
-
-
-See the [open issues](https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Live Site 
 
