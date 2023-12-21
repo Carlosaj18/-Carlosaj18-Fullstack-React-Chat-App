@@ -54,7 +54,7 @@
 </div>
 
 ## Project Technological Stack:
-* ChatEngine: Powers chat functionality in the application.
+* ChatEngine: Powers chat functionality in the application through real-time chat framework.
 * OpenAI and ChatGPT Integration: Infuses AI capabilities for smarter, more intuitive conversations.
 * Redux Toolkit: Efficiently manages application state.
 * Redux Toolkit Query: Facilitates API calls seamlessly within the application.
