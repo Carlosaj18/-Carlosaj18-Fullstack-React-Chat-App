@@ -48,35 +48,21 @@
 </div>
 
 <br />
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
-## About The Project!
+## :star2: About the Project
 
-This is a Chat App that allows you to recive response from GPT Intergration. 
+<div align="justify"> This innovative Chat App revolutionizes communication by seamlessly integrating with GPT, allowing users to receive intelligent and contextually relevant responses. Powered by cutting-edge technology, this platform offers an interactive and intelligent chat experience, harnessing the capabilities of GPT for providing accurate and thoughtful replies. Experience effortless and meaningful conversations with the power of AI-driven responses in this next-level Chat App.
+  <br><br>
+</div>
 
+## Project Technological Stack:
+Authentication: Implement user authentication for secure access to the application.
+Chat Creation: Users can create individual or group chats for diverse conversations.
+Multimedia Upload: Capability to share and upload various multimedia files within chats.
+AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
+Chat Member Management: Ability to add or remove members from existing chats or group conversations.
+AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
+ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
 https://user-images.githubusercontent.com/62365628/226214628-ca49df25-3db6-4317-9afc-4c58b4e36e32.mp4
 
 
