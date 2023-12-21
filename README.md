@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -21,8 +19,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -48,21 +44,36 @@
 </div>
 
 <br />
+
 <!-- ABOUT THE PROJECT -->
 ## :star2: About the Project
+
 
 <div align="justify"> This innovative Chat App revolutionizes communication by seamlessly integrating with GPT, allowing users to receive intelligent and contextually relevant responses. Powered by cutting-edge technology, this platform offers an interactive and intelligent chat experience, harnessing the capabilities of GPT for providing accurate and thoughtful replies. Experience effortless and meaningful conversations with the power of AI-driven responses in this next-level Chat App.
   <br><br>
 </div>
 
 ## Project Technological Stack:
-Authentication: Implement user authentication for secure access to the application.
-Chat Creation: Users can create individual or group chats for diverse conversations.
-Multimedia Upload: Capability to share and upload various multimedia files within chats.
-AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
-Chat Member Management: Ability to add or remove members from existing chats or group conversations.
-AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
-ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
+* Authentication: Implement user authentication for secure access to the application.
+* Chat Creation: Users can create individual or group chats for diverse conversations.
+* Multimedia Upload: Capability to share and upload various multimedia files within chats.
+* AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
+* Chat Member Management: Ability to add or remove members from existing chats or group conversations.
+* AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
+* ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
+
+<p align="center">
+  <br><br>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145294-5df03576-8fad-4819-a29f-f0e57c02a803.png" alt="Chat Engine" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145521-006bb168-1ab6-4af4-afa2-298a7649b453.jpg" alt="Open AI" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
+   <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145554-348b7996-04c2-472e-b4e0-6d1ba74b6576.jpg" alt="Chat GPT" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
+  <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
+   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
+</p>
+
 https://user-images.githubusercontent.com/62365628/226214628-ca49df25-3db6-4317-9afc-4c58b4e36e32.mp4
 
 
@@ -84,16 +95,6 @@ Here's why:
 
 Build a COMPLETE Fullstack Responsive Chat App. 
 
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145294-5df03576-8fad-4819-a29f-f0e57c02a803.png" alt="Chat Engine" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145521-006bb168-1ab6-4af4-afa2-298a7649b453.jpg" alt="Open AI" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
-   <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/226145554-348b7996-04c2-472e-b4e0-6d1ba74b6576.jpg" alt="Chat GPT" height="40" style="vertical-align:top; margin:4px; background-color: coral"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
-  <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
-   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
-</p>
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
