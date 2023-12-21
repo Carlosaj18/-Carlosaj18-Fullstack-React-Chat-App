@@ -54,13 +54,15 @@
 </div>
 
 ## Project Technological Stack:
-* Authentication: Implement user authentication for secure access to the application.
-* Chat Creation: Users can create individual or group chats for diverse conversations.
-* Multimedia Upload: Capability to share and upload various multimedia files within chats.
-* AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
-* Chat Member Management: Ability to add or remove members from existing chats or group conversations.
-* AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
-* ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
+* ChatEngine: Powers chat functionality in the application.
+* OpenAI and ChatGPT Integration: Infuses AI capabilities for smarter, more intuitive conversations.
+* Redux Toolkit: Efficiently manages application state.
+* Redux Toolkit Query: Facilitates API calls seamlessly within the application.
+* Hero Icons: Provides an array of icons, enhancing the app's visual appeal.
+* React Router: Enables smooth navigation between app pages.
+* Node.js: Utilized as the runtime environment.
+* Express.js: Backend framework ensuring robustness and scalability.
+* OpenAI Integration: Integrates AI functionalities, enhancing chat interactions.
 
 <p align="center">
   <br><br>
@@ -73,6 +75,16 @@
   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
+
+## Features:
+
+* Authentication: Implement user authentication for secure access to the application.
+* Chat Creation: Users can create individual or group chats for diverse conversations.
+* Multimedia Upload: Capability to share and upload various multimedia files within chats.
+* AI-Integrated Chats: Create AI-powered chat functionality, integrating ChatGPT API for enhanced conversational experiences.
+* Chat Member Management: Ability to add or remove members from existing chats or group conversations.
+* AI-Powered Autocomplete: AI-driven autocomplete feature for predictive and intelligent text suggestions within chats.
+* ChatGPT API Integration: Code integration enabling seamless communication with ChatGPT for conversational AI functionalities.
 
 https://user-images.githubusercontent.com/62365628/226214628-ca49df25-3db6-4317-9afc-4c58b4e36e32.mp4
 
